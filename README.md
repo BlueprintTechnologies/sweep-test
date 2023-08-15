@@ -9,3 +9,6 @@ We started by creating a simple webpage for a fictional company that installs je
 After configuring Sweep for this particular repo, we created an issue and called out Sweep specifically - https://github.com/BlueprintTechnologies/sweep-test/issues/1. 
 
 Take a look at that issue and view how Sweep responds. It goes through the change planning, the actual coding, and its own code review! Then submits the pull request.
+
+## That's Not All
+During one of its own internal code reviews, Sweep submitted a change to the website title that was more reflective of the website content, despite my very specific ask. You can take a look at the PR it submitted to view.
